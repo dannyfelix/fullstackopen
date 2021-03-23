@@ -2,7 +2,9 @@
 
 ## University of Helsinki's Full Stack Development Course
 
-This repo is the summation of the exercises I have completed throughout this course, the curriculum can be found below.
+This repo is the summation of the exercises I have completed that were assigned throughout this course.
+The course can be found on [their website](https://fullstackopen.com/en/), and the curriculum can be found below.
+
 
 #### Modules
 - Part 0: Fundamentals of Web apps
@@ -18,4 +20,4 @@ This repo is the summation of the exercises I have completed throughout this cou
 - Part 10: React Native
 - Part 11: CI/CD
 
-Thanks to University of Helsinki and Finnish Houston Inc. for releasing this course. 
+Thanks to University of Helsinki and Finnish Houston Inc. for releasing this course.
