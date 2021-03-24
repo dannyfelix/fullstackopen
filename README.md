@@ -3,6 +3,7 @@
 ## University of Helsinki's Full Stack Development Course
 
 This repo is the summation of the exercises I have completed that were assigned throughout this course.
+
 The course can be found on [their website](https://fullstackopen.com/en/), and the curriculum can be found below.
 
 
